@@ -53,6 +53,7 @@
     </div>
 
     <!-- BEGIN GLOBAL MANDATORY SCRIPTS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="{{ asset('backend/dist/js/tabler.min.js') }}" defer></script>
     <!-- END GLOBAL MANDATORY SCRIPTS -->
 
