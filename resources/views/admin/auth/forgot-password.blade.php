@@ -11,7 +11,7 @@
     <title>Forgot password</title>
 
     <!-- BEGIN GLOBAL MANDATORY STYLES -->
-    <link href="{{ asset('admin/dist/css/tabler.css') }}" rel="stylesheet" />
+    <link href="{{ asset('backend/dist/css/tabler.css') }}" rel="stylesheet" />
     <!-- END GLOBAL MANDATORY STYLES -->
 
     <!-- BEGIN CUSTOM FONT -->
